@@ -1,0 +1,108 @@
+@media only screen and (max-width: 767px) {
+  .hero-slide .hero-container {
+    height: 756px;
+    padding-top: 220px;
+    padding-bottom: 40px;
+    align-items: flex-start;
+  }
+}
+@media only screen and (max-width: 1023px) {
+  .hero-group-content .hero-title {
+    margin-bottom: 40px;
+  }
+}
+
+@media only screen and (max-width: 1023px) {
+  .hero-group-content .hero-btn-more {
+    display: inline;
+  }
+}
+@media only screen and (max-width: 1240px) {
+  .hero-bg {
+    left: 180px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .hero-bg {
+    left: 0;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .hero-foot .hero-container {
+    height: 55px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .hero-arrows {
+    display: none;
+  }
+}
+@media only screen and (max-width: 1023px) {
+  .hero-btn-more {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .hero-pager {
+    margin-left: -20px;
+  }
+}
+
+@media only screen and (max-width: 1023px) {
+  .hero-links {
+    display: none;
+  }
+}
+@media only screen and (max-width: 1240px) {
+  .hero-box {
+    margin-right: -60px;
+  }
+}
+
+@media only screen and (max-width: 1023px) {
+  .hero-box {
+    margin-right: -40px;
+    flex: 0 0 300px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .hero-box {
+    flex: 0 0 188px;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .hero-next {
+    min-height: 110px;
+    padding: 30px 20px;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .hero-next .hero-title {
+    font-size: 16px;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .hero-label {
+    margin-bottom: 20px;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .pager {
+    width: 112px;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .pager-dots {
+    margin: 0 2px;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .pager-dots button {
+    padding: 5px 2px;
+  }
+}
